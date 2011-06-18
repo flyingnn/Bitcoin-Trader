@@ -32,10 +32,22 @@ be pushed daily.
 
 
 Why is the source code here?
-The source code allows you to download, compile and install the software on your device if you do not wish to install
+The source code allows you to download, review, compile and install the software on your device if you do not wish to install
 a precompiled binary.  However, most users will opt in downloading the precompiled binary from:
 
-https://market.android.com/details?id=com.mtgoxlive.trader
+https://market.android.com/details?id=com.mtgoxlive.trader (v1.2 / current)
+
+We are constantly updating the code base (e.g., multiple times daily).  Expect many great tools, additions, visualizations
+and more to come!  We will also be adding iPhone support soon!
+
+
+Why Appcelerator Titanium / Javascript?
+Portability.  Readability.  By utilizing Appcelerator Titanium, we are able to reach the widest array of devices while
+maintaining a single code base.  This means less work for us to create more benefit for people everywhere!
+
+
+Why is this free?
+Let's make this world a better place, one step at a time.
 
 
 How to install:
