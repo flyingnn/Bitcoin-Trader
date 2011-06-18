@@ -1,4 +1,58 @@
-Stuff our legal folk make us say:
+/*
+** Bitcoin Trader by MtGox Live <http://mtgoxlive.com/>
+** Copyright (c) 2011 MtGox Live <http://mtgoxlive.com/>
+**
+** Authors
+** rasengan on irc.freenode.net - btc.to/2
+**
+** Please visit us at http://mtgoxlive.com/ and IRC.Freenode.Net #MtGoxLive
+**
+** This file is part of Bitcoin Trader by MtGox Live <http://mtgoxlive.com/>
+**
+** Bitcoin Trader by MtGox Live is free software: you can redistribute it
+** and/or modify it under the terms of the GNU General Public License as
+** published by the Free Software Foundation, either version 3 of the
+** License, or (at your option) any later version.
+**
+** Bitcoin Trader by MtGox Live  is distributed in the hope that it will
+** be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+** GNU General Public License for more details.
+**
+** You should have received a copy of the GNU General Public License
+** along with Bitcoin Trader by MtGox Live.  If not,
+** see <http://www.gnu.org/licenses/>.
+**
+*/
+
+What is Bitcoin Trader by MtGox Live?
+MtGox Live Bitcoin Trader is an Android Application that helps you buy, sell, trade, and send bitcoins on MtGox.
+It also has many more features, including depth history, user history, as well as many more features that will
+be pushed daily.
+
+
+Why is the source code here?
+The source code allows you to download, compile and install the software on your device if you do not wish to install
+a precompiled binary.  However, most users will opt in downloading the precompiled binary from:
+
+https://market.android.com/details?id=com.mtgoxlive.trader
+
+
+How to install:
+1. Get Android SDK from http://developer.android.com/index.html
+2. Follow instructions to install Android SDK and Eclipse
+3. Download Appcelerator Titanium 1.6.2 or 1.7.0
+4. Install Appcelerator Titanium 
+5. Add a new project in Appcelerator (Mobile/Android/SDK 2.1 or higher)
+6. Move files into Resources
+7. Build and install on your device!
+
+
+What do I do if I have problems?
+Please come to irc.freenode.net #MtGoxLive
+
+
+
 
 Appcelerator, Appcelerator Titanium and associated marks and logos are 
 trademarks of Appcelerator, Inc. 
