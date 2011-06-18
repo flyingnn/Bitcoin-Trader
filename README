@@ -50,6 +50,17 @@ people everywhere!
 Why is this free?
 Let's make this world a better place, one step at a time.
 
+How to read:
+                app.js
+                   \
+                   topWindow.js -> passwordWindow.js, registerWindow.js, loginWindow.js
+                                                                              |
+                                                                          mainWindow.js
+
+From there, mainWindow.js is the main window and all the other windows are sub windows
+within mainWindow (or in Titanium language, mainWindow is the main window and the
+rest of the views are simply Views within the Window).
+
 
 How to install:
 1. Get Android SDK from http://developer.android.com/index.html
