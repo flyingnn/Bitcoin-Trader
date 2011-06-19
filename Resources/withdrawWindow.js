@@ -128,7 +128,7 @@ function doWithdrawal() {														// do withdraw
           alertDialog("Error","Invalid Address");								// let em know
         }
         else if(response.length>0) {											// otherwise
-          btcaddress=(response.length>10?response.trim():addy.trim());			// set the address to either the response or keep it if it is a real addy anyway
+          btcaddress=(response.length>10?response.trim():withdrawAddress.value);			// set the address to either the response or keep it if it is a real addy anyway
           var alert = Titanium.UI.createAlertDialog({ title: 'Send', message: 'Send '+withdrawAmount.value+'฿ to '+btcaddress+'?', buttonNames: ['Yes', 'No'], cancel: 1 });
           alert.addEventListener('click', function(ev) {
             if (!(ev.cancel === ev.index || ev.cancel === true)) {
